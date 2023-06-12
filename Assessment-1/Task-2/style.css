@@ -1,0 +1,15 @@
+.container{
+    margin: 10rem 5rem;
+}
+
+.txt-center{
+    text-align: center;
+}
+.font-bold{
+    font-weight:600;
+    font-style: italic;
+    font-family :Georgia, 'Times New Roman', Times, serif
+}
+.btn{
+    border-radius: 20px;
+}

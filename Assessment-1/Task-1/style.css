@@ -1,0 +1,33 @@
+div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width:98%;
+}
+.input-container {
+    display: flex;
+    width: 250px;
+    border: 1px solid #a9a9a9;
+    justify-content: space-between;
+}
+.sec1
+{
+    background-color:grey;    
+}
+.sec2
+{
+    background-color:white;
+}
+.sec3
+{
+    background-color: rgba(137, 137, 35, 0.633);
+}
+.sec4{
+    background-color: rgb(121, 33, 121);
+}
